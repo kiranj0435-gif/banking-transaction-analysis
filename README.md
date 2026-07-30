@@ -162,7 +162,8 @@ Banking-Transaction-Analysis/
 
 📧 Email: kiran.j0435@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/kiranj0435
+
 
 💻 GitHub: https://github.com/kiranj0435-gif
 
