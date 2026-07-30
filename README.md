@@ -113,7 +113,7 @@ Implemented SQL queries to identify:
 
 Calculates the total value of all deposit transactions processed by the bank, providing insights into the overall cash inflow.
 
-![Total Deposit Amount](screenshots/Total_depsits.png)
+![Total Deposit Amount](screenshots/Total_deposits.png)
 
 
 ## 🏦 Branch-wise Opening Balance
