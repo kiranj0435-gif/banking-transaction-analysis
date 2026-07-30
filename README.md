@@ -109,16 +109,26 @@ Implemented SQL queries to identify:
 
 # 📷 Sample Outputs
 
-## Total Deposits
+## 💰 Total Deposit Amount
+
+Calculates the total value of all deposit transactions processed by the bank, providing insights into the overall cash inflow.
+
+![Total Deposit Amount](screenshots/Total_depsits.png)
+
+
+## 🏦 Branch-wise Opening Balance
+
+Aggregates the opening balances of customer accounts for each branch and ranks them to compare branch-wise fund distribution.
+
+![Branch-wise Opening Balance](screenshots/branch_wise_current_balance.png)
 
 
 
+## 🏆 Top 5 Customers by Total Transaction Amount
 
-## Branch-wise Transactions
+Identifies the top five customers based on the total value of their banking transactions across all accounts.
 
-
-
-## Fraud Detection
+![Top 5 Customers](screenshots/top_five_customers.png)
 
 
 
@@ -137,10 +147,9 @@ Implemented SQL queries to identify:
 ```
 Banking-Transaction-Analysis/
 │
-├── Banking_Transaction_Analysis.sql
+├── SQL CODE/
+     ├──Banking_Transaction_Analysis.sql
 ├── README.md
-├── Database_Schema.png
-├── ER_Diagram.png
 └── Screenshots/
       ├── Total_Deposits.png
       ├── Fraud_Detection.png
