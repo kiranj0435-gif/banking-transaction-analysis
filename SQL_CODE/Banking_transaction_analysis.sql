@@ -1,23 +1,30 @@
 /*
-==========================================================
-Project Name : Banking Transaction Analysis
-Author       : Kiran J
-Database     : MySQL 8.0
+===========================================================
+            Banking Transaction Analysis using SQL
+===========================================================
+
+Author      : Kiran J
+Database    : MySQL 8.0
+Project Type: Banking Data Analysis
 
 Description:
-This project analyzes banking transactions using SQL.
+This project demonstrates SQL-based analysis of banking
+transactions using real-world business scenarios. It includes
+customer analysis, branch performance, financial KPIs, fraud
+detection, and transaction insights.
 
-Topics Covered:
-✔ DDL
-✔ DML
-✔ Joins
-✔ Aggregate Functions
-✔ GROUP BY
-✔ HAVING
-✔ CASE
-✔ Business KPIs
-✔ Fraud Detection
-==========================================================
+SQL Concepts Used:
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- Aggregate Functions
+- CASE Statements
+- INNER JOIN
+- Subqueries
+
+===========================================================
 */
 
 
